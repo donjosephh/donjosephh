@@ -1,0 +1,8 @@
+const developer = {
+    name: "YOUR_NAME",
+    location: "🌍 Earth",
+    role: "Developer & Tech Enthusiast",
+    interests: ["Coding", "Building cool stuff", "Exploring tech"],
+    currentlyLearning: ["New technologies", "New possibilities"],
+    hobbies: ["☕ Coffee", "🎧 Music", "💻 Coding"],
+    motto: "Eat. Sleep. Code. Repeat. 🔁"
